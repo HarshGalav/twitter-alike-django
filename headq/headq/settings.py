@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-e^yz+1fun-&phgoci0mxt-iiymffq0#3lk$23p9d5z(i866_zx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['twitter-alike-django-vmdj.vercel.app','*']
 
 
 # Application definition
